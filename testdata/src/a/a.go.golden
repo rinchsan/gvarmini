@@ -1,0 +1,10 @@
+package a
+
+var (
+    _ int
+    _ int
+    _ int
+    _ int
+) // want "多いよ"
+
+func f() {}
